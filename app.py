@@ -1,1 +1,0 @@
-print('Cloud Business Management')
